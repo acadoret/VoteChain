@@ -1,0 +1,11 @@
+=============== Sep 26, 2019 (CEST) ===============
+20:45:41.422545 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:45:41.425193 db@open opening
+20:45:41.426864 version@stat F·[] S·0B[] Sc·[]
+20:45:41.428313 db@janitor F·2 G·0
+20:45:41.428350 db@open done T·3.135499ms
+21:44:50.986369 memdb@flush N·47594 S·4MiB
+21:44:51.054982 memdb@flush created L0@3 N·47594 S·904KiB "loc..seq,v4":"version,v1"
+21:44:51.055043 version@stat F·[1] S·904KiB[904KiB] Sc·[0.25]
+21:44:51.056125 memdb@flush committed F·1 T·69.705594ms
+21:44:51.056296 journal@remove removed @1
